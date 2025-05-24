@@ -10,7 +10,7 @@ Android-приложение для безопасного хранения па
 ## 🚀 Запуск
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-логин/PasswordManager.git
+   git clone https://github.com/TunZum/PasswordManager.git
    ```
 2. Откройте проект в Android Studio
 3. Соберите проект:
